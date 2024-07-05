@@ -26,5 +26,5 @@ gray    : ベースカラー
 }
 
 .header button:hover {
-    background-color: #4C88FF;
+    color: #4C88FF;
 }
